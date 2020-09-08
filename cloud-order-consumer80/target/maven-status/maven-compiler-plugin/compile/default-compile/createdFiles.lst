@@ -1,0 +1,3 @@
+com\alfie\springcloud\controller\OrderController.class
+com\alfie\springcloud\OrderConsumer80.class
+com\alfie\springcloud\config\ApplicationConfiguration.class
